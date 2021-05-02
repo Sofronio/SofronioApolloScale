@@ -30,18 +30,18 @@ I bought nearly every coffee scale under 200 RMB(￥) or about 30 USD($). I took
 * Adafruit_SSD1306 https://github.com/adafruit/Adafruit_SSD1306
 * Stopwatch_RT https://github.com/RobTillaart/Stopwatch_RT
 
-##Fucntion achieved
+## Fucntion achieved
 * Negative weight auto tare
 * Positive weight auto tare and auto start timer
 * Auto stop timer after last drip
 * Brew ratio(now only fixed as 20g coffee, which I usually use)
 
-##Fucntion to do
+## Fucntion to do
 * Button support
 * Low power mode(however, I want to use an On/Off switch to save the fuzz)
 * Coffee bean/ground holder cup memerize(by weight/by nfc)
 * Espresso machine wireless control(phycicle push button/use relay)
 
-##Function won't be done
-*Bluetooth support
+## Function won't be done
+* Bluetooth support for smartphone
 which I still don't get the point to use phone during coffee making, I used the Acaia Pearl S and Acaia Lunar's bluetooth app for the first week, then I'd never use my phone to record any data.
