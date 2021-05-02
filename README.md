@@ -45,4 +45,4 @@ I bought nearly every coffee scale under 200 RMB(￥) or about 30 USD($). I took
 
 ## Function won't be done
 * Bluetooth support for smartphone
-which I still don't get the point to use phone during coffee making, I used the Acaia Pearl S and Acaia Lunar's bluetooth app for the first week, then I'd never use my phone to record any data.
+<br />which I still don't get the point to use phone during coffee making, I used the Acaia Pearl S and Acaia Lunar's bluetooth app for the first week, then I'd never use my phone to record any data.
