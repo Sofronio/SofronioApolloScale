@@ -31,13 +31,13 @@ I bought nearly every coffee scale under 200 RMB(￥) or about 30 USD($). I took
 * Adafruit_SSD1306 https://github.com/adafruit/Adafruit_SSD1306
 * Stopwatch_RT https://github.com/RobTillaart/Stopwatch_RT
 
-## Fucntion achieved
+## Function achieved
 * Negative weight auto tare
 * Positive weight auto tare and auto start timer
 * Auto stop timer after last drip
 * Brew ratio(now only fixed as 20g coffee, which I usually use)
 
-## Fucntion to do
+## Function to do
 * Button support
 * Low power mode(however, I want to use an On/Off switch to save the fuzz)
 * Coffee bean/ground holder cup memerize(by weight/by nfc)
