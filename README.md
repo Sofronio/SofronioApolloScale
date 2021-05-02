@@ -6,7 +6,8 @@ Acaia produces excellent coffee scales, especially their espresso scale, aka. Ac
 * Positive weight auto tare and auto start timer
 * Auto stop timer after last drip
 * ...
-As a heavy espresso drinker, and a new-bie arduino user, I want to use some cheap scales, and find a way to modify them into an Acaia-like espreeso scale.<br />
+
+As a heavy espresso drinker, and a new-bie arduino user, I want to use some cheap scales, and find a way to mod them into an Acaia-like espreeso scale.<br />
 ## Research
 I bought nearly every coffee scale under 200 RMB(￥) or about 30 USD($). I took them apart, did some research, and found the following information:
 * All scales share one same component called Loadcell. Loadcell usually has 4 wires, which should be in red, black, green and white.
