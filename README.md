@@ -40,7 +40,7 @@ I bought nearly every coffee scale under 200 RMB(￥) or about 30 USD($). I took
 ## Function to do
 * Button support
 * Low power mode(however, I want to use an On/Off switch to save the fuzz)
-* Coffee bean/ground holder cup memerize(by weight/by nfc)
+* Coffee bean/ground holder cup memorize(by weight/by nfc), to only weigh the coffee and not start timer.
 * Espresso machine wireless control(phycicle push button/use relay)
 
 ## Function won't be done
